@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Murat\'s Todo List</string>
+    <string name="todo_title_hint">Enter a title for the todo.</string>
+    <string name="todo_title_label">Title</string>
+    <string name="todo_details_label">Details</string>
+    <string name="todo_solved_label">Finished</string>
+    <string name="todo_title">Todo Title</string>
+    <string name="todo_date">Todo Date</string>
+</resources>
